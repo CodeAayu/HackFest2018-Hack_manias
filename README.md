@@ -1,4 +1,4 @@
-# HackFest2018-Hack_manias# Hack-Manias-HackFest2018
+# HackFest2018-Hack_manias
 This is the hack source code created by team Hack Manias in HackFest-2018, annual Hackathon in IIT(ISM)-Dhanbad.
 
 We created a Hand Gesture controlled automatic room prototype using Computer vision and Raspberry Pi for Hardware-Software interaction. 
