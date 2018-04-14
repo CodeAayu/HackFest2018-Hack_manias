@@ -19,3 +19,5 @@ Raspberry GPIO pins were used to control hardware which can be extended to AC ci
 We tried several different methods to detect the Gestures whose codes are included in repository.
 
 Please refer to the image for raspberry pi connections.
+
+Team Hack-Manias has Atul Kumar as an offline collaborator.
