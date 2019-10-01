@@ -8,7 +8,7 @@ We used OpenCV as our library of python distribution for Computer Vision, i.e. H
 Raspberry Pi 2-B was used to run our python scripts and interact with hardware as detected by the Gesture detection.
 
 Pre-requisites :- 
-1. Python2.x >= Python2.7.0 / Python3.5.x >= Python3.5.1 / Python3.6.x >= Python 3.6.2 (However our some codes may vary from python to python but only the print statement syntax is different, other libraries are common.)
+1. Python2.x.y >= Python2.7.0 / Python3.5.x >= Python3.5.1 / Python3.6.x >= Python 3.6.2 (However our some codes may vary from python to python but only the print statement syntax is different, other libraries are common.)
 2. OpenCV(python-distribution), we used 2.7.4 in Raspberry and 3.4.2 in our systems.
 3. Raspberry Pi, atleast 2-B. Even 2-b was too slow for such heavy tasks, so we had to optimize our codes seriously.
 
